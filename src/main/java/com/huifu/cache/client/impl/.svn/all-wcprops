@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/trunk/!svn/ver/4092/saturn-archetype-project/saturn-jar/cpcache/src/main/java/com/huifu/cache/client/impl
+END
+CPCacheClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/trunk/!svn/ver/1854/saturn-archetype-project/saturn-jar/cpcache/src/main/java/com/huifu/cache/client/impl/CPCacheClientImpl.java
+END
+CPMasterSlaveCacheClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/trunk/!svn/ver/4092/saturn-archetype-project/saturn-jar/cpcache/src/main/java/com/huifu/cache/client/impl/CPMasterSlaveCacheClientImpl.java
+END
